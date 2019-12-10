@@ -1,3 +1,4 @@
+<!-- SCROOLL REVEAL SCRIPT -->
 window.sr = ScrollReveal();
     sr.reveal('.navbar', {
       duration: 2000,
@@ -32,3 +33,8 @@ window.sr = ScrollReveal();
         });
       });
     });
+
+
+
+
+
